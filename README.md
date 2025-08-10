@@ -4,3 +4,6 @@ Disk Operating System that I use only for me! (Listen, its not really an os, its
 ## latest version: v1.6.28.0.3
 - Added Changelog feature
 - Added a working custom command -- "ntc-go", compared to "start" in batch.
+
+## how to use
+Create a shortcut in "shell:startup" and set Target to "C:\Windows\System32\cmd.exe /k dosintro.bat" and Start in to the folder in which dosintro.bat is saved (.../ntc-dos)
